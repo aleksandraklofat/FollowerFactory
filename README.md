@@ -1,3 +1,10 @@
+# Meine Anmerkungen zu dem Skript
+## Probleme bie der Grafik
+Bei mir hat nur das öffnen der Grafik mit Microsoft Edge funktioniert. Alle anderen empfohlenen Massnahmen scheiterten. 
+## Blogpost zum Skript
+https://datenverstehen.de/fake-follower-auf-twitter-anhand-der-daten-erkennen
+
+
 # FollowerFactory
 Create the scatterplots used in [NYTimes' Follower Factory](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html).
 
