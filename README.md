@@ -1,5 +1,5 @@
 # Meine Anmerkungen zu dem Skript
-## Probleme bie der Grafik
+## Probleme bei der Grafik
 Bei mir hat nur das öffnen der Grafik mit Microsoft Edge funktioniert. Alle anderen empfohlenen Massnahmen scheiterten. 
 ## Blogpost zum Skript
 https://datenverstehen.de/fake-follower-auf-twitter-anhand-der-daten-erkennen
